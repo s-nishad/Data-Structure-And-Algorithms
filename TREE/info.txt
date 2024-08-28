@@ -1,0 +1,9 @@
+Traversal Methods:
+
+Depth-First Search (DFS):
+Preorder: Visit the root, then left subtree, then right subtree.
+Inorder: Visit the left subtree, root, then right subtree (used in BST to get sorted order).
+Postorder: Visit the left subtree, right subtree, then root.
+
+Breadth-First Search (BFS):
+Level Order: Visit nodes level by level, from left to right.
